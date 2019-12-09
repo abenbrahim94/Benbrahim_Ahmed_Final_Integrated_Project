@@ -240,7 +240,7 @@ nav a:focus {
 	.part-1 img{
 	display: block;
 	float: left;
-	height: 900px;
+	height: 700px;
 	width: 50%;
 
 }
@@ -253,7 +253,7 @@ nav a:focus {
 	.part-2 img{
 	display: block;
 	float: right;
-	height: 900px;
+	height: 700px;
 	width:  50%;
 
 }
