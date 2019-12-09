@@ -4,7 +4,7 @@
 ### Getting Started
 This is a basic HTML / CSS / JavaScript build. Showcasing some of the projects I have done throughout the semester.
 
-Visit to see how the website looks like.
+Visit "https://abenbrahim94.github.io/Benbrahim_Ahmed_Final_Integrated_Project/" to see how the website looks like.
 
 ### Prerequisites
 Any browser of your choice will get the job done!
